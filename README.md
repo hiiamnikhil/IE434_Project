@@ -7,7 +7,8 @@ The following are the team memebers:
 Name          neid  
 Nikhil Arora: na32  
 Gaurav Bhandari: gauravb4   
-Sarath Saroj: ssaroj2  
-Srushti Manjunath: srushti5  
+Sarath Saroj: ssaroj2    
+Srushti Manjunath: srushti5    
+
 
 
