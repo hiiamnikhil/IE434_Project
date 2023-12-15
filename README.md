@@ -4,11 +4,11 @@ Hi this the readme for the IE 434 Project for Fall 2023
 
 The following are the team memebers:  
 
-Name          neid  
-Nikhil Arora: na32  
-Gaurav Bhandari: gauravb4   
-Sarath Saroj: ssaroj2    
-Srushti Manjunath: srushti5    
+Name           
+Nikhil Arora: http://www.linkedin.com/in/nikhil-arora-uiuc  
+Gaurav Bhandari: gauravb4   http://www.linkedin.com/in/gaurav-bhandari-52417411b
+Sarath Saroj: ssaroj2    https://www.linkedin.com/in/sarathsaroj/
+Srushti Manjunath: srushti5    https://www.linkedin.com/in/srushti-manjunath/
 
 
 
