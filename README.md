@@ -1,6 +1,6 @@
 # IE434_Project
-IE 434 Project 
-Hi this the readme for the IE 434 Project for Fall 2023 
+Predicting Demand through Ride share network. 
+Hi this is the readme for a project which was done as a part of IE 434 Project for Fall 2023.   
 
 The following are the team memebers:  
 
